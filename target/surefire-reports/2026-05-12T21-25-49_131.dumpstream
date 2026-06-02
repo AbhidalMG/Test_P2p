@@ -1,0 +1,5 @@
+# Created at 2026-05-12T21:25:49.246
+Boot Manifest-JAR contains absolute paths in classpath 'D:\dal\TEKPRO_PR\W11\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
